@@ -26,9 +26,9 @@ Truy cập [**fbtool.net**](https://fbtool.net/) , ở góc trên bên phải nh
 
 A. Tải file ở đây, tuyệt đối **KHÔNG** tải ở những nơi khác. Lưu ý: Chỉ để **DUY NHẤT** 1 phiên bản Tiện ích mở rộng mới nhất, nếu bạn đang cập nhật phiên bản mới thì phải xoá bản cũ đi.
 
-### <mark style="color:red;">Phiên bản mới nhất v2.4.2</mark> 👇
+### <mark style="color:red;">Phiên bản mới nhất v2.5.0</mark> 👇
 
-{% file src=".gitbook/assets/1manbiz-v2.4.2.zip" %}
+{% file src=".gitbook/assets/1manbiz-v2.5.0.zip" %}
 
 B. Trên trình duyệt Chrome, ở góc trên bên phải chọn dấu 1. Dấu ba chấm -> 2. Tiện ích mở rộng -> **3. Quản lý các tiện ích**
 
@@ -75,6 +75,7 @@ D. **Kéo và thả** file vừa tải vào giữa như ảnh phía dưới (Ho�
 
 #### Version log:
 
+* 28/10/2024: v2.5.0 new feature - ads spy MAX
 * 22/10/2024: v2.4.2 fix send image in messenger
 * 15/10/2024: v2.4.1 new feature limit 25 posts; get groups' stats
 * 09/10/2024: v2.4.0 fix Checkpoint redirect, upload file failure
