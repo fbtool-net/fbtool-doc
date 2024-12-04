@@ -194,6 +194,8 @@ Khi sử dụng tool bạn sẽ có thể bị Checkpoint lần đầu, gỡ ra 
 
 <figure><img src=".gitbook/assets/image (62).png" alt="" width="375"><figcaption></figcaption></figure>
 
+
+
 ### 12. Đăng bài kèm <mark style="color:red;">@Nêu bật</mark> / <mark style="color:green;">@Mọi người</mark>
 
 <figure><img src=".gitbook/assets/Group 1000005097.png" alt=""><figcaption></figcaption></figure>
@@ -218,13 +220,14 @@ Nếu content bạn đăng có dạng mua/bán và đăng vào những nhóm có
 
 Nếu content có trên 2 hình ảnh thì nên dùng tính năng này để xáo trộn vị trí hình ảnh/video, tránh bị dính spam.
 
+### 15. <mark style="color:red;">Tham gia</mark> nhóm
 
+<figure><img src=".gitbook/assets/fbtool_join_groups.png" alt=""><figcaption></figcaption></figure>
 
+Có 2 cách để tham gia nhóm:
 
-
-
-
-
+1. **Tham gia với danh sách UID các nhóm:** Bạn tự chuẩn bị danh sách UID nhóm, cách nhau mỗi dòng
+2. **Tham gia bằng cách chọn các nhóm trong danh sách có sẵn:** Tìm kiếm theo từ khoá và chọn các nhóm phù hợp với nhu cầu của bạn. Danh sách nhóm có sẵn của tool được cập nhật thường xuyên.
 
 
 
