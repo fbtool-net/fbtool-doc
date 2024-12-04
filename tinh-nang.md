@@ -158,23 +158,17 @@ Bạn có thể đăng video có đuôi **MP4**.
 
 
 
-### 10. Xoá bài <mark style="color:red;">chờ duyệt</mark>
+### 10. Xoá bài <mark style="color:red;">chờ duyệt, đã đăng, hoặc tất cả</mark>
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/fbtool_remove_posts.png" alt=""><figcaption></figcaption></figure>
 
-Có 4 cách dùng tính năng Xoá bài chờ duyệt:&#x20;
+Có 3 cách dùng tính năng Xoá bài:&#x20;
 
-**Cách 1: Chỉ xoá bài chờ duyệt:** Tích chọn số 1, không điền nội dung và bình luận thì tool sẽ vào từng nhóm đã chọn và xóa toàn bộ các bài đang chờ duyệt.
+**Cách 1: Chỉ xoá bài chờ duyệt** tool sẽ vào từng nhóm đã chọn và xóa toàn bộ các bài đang chờ duyệt.
 
-**Cách 2: Xoá bài chờ duyệt rồi mới đăng bài:** Soạn nội dung, chọn nhóm và tích chọn số 1 thì tool sẽ xóa toàn bộ bài chờ duyệt của bạn trước khi đăng vào nhóm đó.
+**Cách 2: Chỉ xoá bài đã đăng** tool sẽ xóa toàn bộ bài đã đăng của bạn trong các nhóm đã chọn.
 
-**Cách 3: Đăng bài bỏ qua nhóm có X bài chờ duyệt:** Soạn nội dung, chọn nhóm và điền vào số 2 thì nếu nhóm đó có số bài chờ duyệt lớn hơn ô X thì tool sẽ không đăng vào nhóm đó.
-
-Ví dụ: Bỏ qua nhóm có trên <mark style="color:red;">**10**</mark> bài "Chờ Duyệt", tool sẽ chỉ đăng vào các nhóm có ít hơn 10 bài chờ duyệt, các nhóm có 10 bài chờ duyệt tool sẽ bỏ qua không đăng.
-
-**Cách 4: Bỏ qua kết hợp xoá bài chờ:** Soạn nội dung, chọn nhóm, tích chọn 1 và điền vào số 2 thì tool sẽ làm "Cách 3" xong đến "Cách 2".
-
-Ví dụ: Bỏ qua nhóm có trên 5 bài chờ duyệt, tool gặp nhóm có đang có 4 bài chờ duyệt của bạn, tool sẽ xoá toàn bộ 4 bài chờ duyệt trước khi đăng vào nhóm này.&#x20;
+**Cách 3: Xoá tất cả** tool thực hiện cả 1 và 2.
 
 _Lưu ý: Khi chọn tính năng này, tool sẽ tự động mở thêm 1 thẻ facebook nữa, bạn để yên thẻ facebook đó không tắt đi để tool cập nhật trình trạng xoá bài (nếu tắt đi tool sẽ không thể chạy xoá bài chờ)_
 
