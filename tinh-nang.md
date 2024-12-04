@@ -218,7 +218,7 @@ Nếu content bạn đăng có dạng mua/bán và đăng vào những nhóm có
 
 
 
-### **14. **<mark style="color:red;">**Xáo trộn**</mark> ảnh
+### **14.&#x20;**<mark style="color:red;">**Xáo trộn**</mark> ảnh
 
 <figure><img src=".gitbook/assets/Group 1000005098 (1).png" alt=""><figcaption></figcaption></figure>
 

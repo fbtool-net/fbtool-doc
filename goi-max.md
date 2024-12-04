@@ -1,5 +1,9 @@
 # 🤖 Gói MAX
 
+Gói MAX tìm kiếm leads hiện tại gồm 3 chế độ: Tìm theo từ khoá & nhóm; Tìm theo các bài Quảng cáo; và Tìm theo các liên kết đã lưu
+
+### Tìm theo từ khoá & nhóm
+
 <figure><img src=".gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 1. Ô điền từ khóa
@@ -11,7 +15,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=BUVSF1ePRbE" %}
 
-### Logic của AI trong gói MAX
+#### Logic của AI
 
 #### **Logic của phần 1 và 2:**
 
@@ -53,7 +57,16 @@ Giá -> Vị trí -> Loại sản phẩm
 
 Ví dụ: Bạn có phòng trọ 4tr và phòng trọ 10tr. Nhu cầu của "Người mua" là phòng 3tr. AI sẽ gửi phòng 4tr
 
+### Tìm theo bài Quảng cáo
 
+<figure><img src=".gitbook/assets/fbtool_max_ads.png" alt=""><figcaption></figcaption></figure>
+
+1. Từ khoá tìm kiếm nội dung quảng cáo
+2. Lọc tìm nội dung quảng cáo theo Danh mục, Thời gian. Chọn người bán, người mua hoặc không xác định (có thể chọn nhiều hoặc không chọn). Khi tìm ra thì làm gì? Bình luận, nhắn tin hoặc kết bạn? (có thể chọn nhiều hoặc không chọn).
+3. Thông tin sản phẩm hoặc dịch vụ của bạn cung cấp: cần thiết để hành động Bình luận, Gửi tin nhắn (đối với Trang cá nhân)
+4. Ảnh đi kèm Bình luận và Tin nhắn
+5. Danh sách quảng cáo hệ thống đã thu thập
+6. Phễu báo cáo
 
 ### Lưu ý:
 
