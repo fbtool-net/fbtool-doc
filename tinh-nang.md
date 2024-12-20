@@ -14,11 +14,15 @@ layout:
 
 # 🔥 Tính Năng
 
+#### Các tính năng được cập nhật và phát triển mới liên tục, bạn có thể xem chi tiết các tính năng phía dưới đây:
+
 ### <mark style="color:red;">1. Đăng bài</mark>
 
-#### Chế độ 1: Đăng 1 bài
+#### Chế độ 1: Đăng bài
 
-Đăng bài 1 vào các nhóm đã chọn.
+Soạn nội dung, thêm hình ảnh/video tuỳ ý (1), chọn các nhóm muốn đăng bài vào (2), ấn bắt đầu (3).
+
+<figure><img src=".gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -58,14 +62,14 @@ layout:
 
 ### 2. <mark style="color:red;">Úp</mark> bài
 
-Phần mềm có thể úp các bài đã được đăng ở thẻ Úp bài. Giao diện như sau:
+Các bài đã đăng bằng Fbtool có thể được úp lên tóp bằng việc bình luận vào chính các bài viết đó, cụ thể:
 
-1. Nội dung bình luận úp lên, có thể tùy chỉnh thêm xóa, lưu lại. Khi phần mềm đăng sẽ chọn ngẫu nhiên 1 trong số các bình luần này.
-2. Các chiến dịch đã đăng bên thẻ "Đăng bài & Bình luận" sẽ hiện ra ở đây.
+1. Các chiến dịch đã đăng bên thẻ "Đăng bài & Bình luận" sẽ hiện ra ở đây.
+2. Nội dung bình luận (có thể thêm/xóa), khi phần mềm đăng sẽ chọn ngẫu nhiên 1 trong số các bình luần này.
+3. Số lần lặp lại
+4. Ấn bắt đầu để chạy.
 
-_Lưu ý: Khi úp hết danh sách bài viết trong chiến dịch, phần mềm sẽ quay đầu về bài một và lặp không giới hạn._
-
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -76,7 +80,7 @@ _Lưu ý: Khi úp hết danh sách bài viết trong chiến dịch, phần mề
 * Đăng bình luận 1 vào bài mới nhất, bình luận 2 vào bài mới nhì...
 * Phần mềm sẽ đăng tối đa 10 bình luận vào 10 bài mới nhất của nhóm đầu tiên, sau đó tiếp tục qua nhóm thứ hai và lặp lại
 
-
+<figure><img src=".gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 ### 4. <mark style="color:red;">AI</mark> <mark style="color:red;">spin</mark>
 
@@ -160,7 +164,7 @@ Bạn có thể đăng video có đuôi **MP4**.
 
 ### 10. Xoá bài <mark style="color:red;">chờ duyệt, đã đăng, hoặc tất cả</mark>
 
-<figure><img src=".gitbook/assets/fbtool_remove_posts.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
 Có 3 cách dùng tính năng Xoá bài:&#x20;
 

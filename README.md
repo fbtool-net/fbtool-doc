@@ -14,6 +14,8 @@ layout:
 
 # ⬇️ Hướng Dẫn Sử Dụng
 
+#### Để bắt đầu sử dụng, bạn cần đăng ký/đăng nhập, sau đó cài Tiện ích mở rộng vào trình duyệt (chỉ cần cài 1 lần), cụ thể:&#x20;
+
 ### Bước 1 - Đăng ký / Đăng nhập
 
 Truy cập [**fbtool.net**](https://fbtool.net/) , ở góc trên bên phải nhấn chọn nút này và đăng ký/đăng nhập với tài khoản Google.
