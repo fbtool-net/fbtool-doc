@@ -32,7 +32,29 @@ Sau đó click chọn quảng cáo phù hợp (có thể chọn nhiều)
 
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
+
+
 ### 2. Tìm từ các bài bạn <mark style="color:red;">Thích</mark>
+
+<figure><img src=".gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+
+Hoạt động tương tự như Quảng cáo, bạn có thể copy link bất kỳ bài viết nào bạn thích trên Facebook., cách làm như sau:&#x20;
+
+Nhấn chọn nút "Sao chép" các bài viết bất kỳ (thậm chí là các Reels, videos, bài từ Trang cá nhân, Trang, hội nhóm, quảng cáo...).&#x20;
+
+<figure><img src=".gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+
+Nếu giao diện Facebook bạn không có nút "Sao chép", ấn nút "Chia sẻ" -> "Sao chép liên kết"
+
+<figure><img src=".gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+
+Nhấn Cho phép (chỉ cần làm 1 lần)
+
+<figure><img src=".gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+
+Chuyển qua thẻ phần mềm bạn sẽ thấy bài viết
+
+<figure><img src=".gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
 
 
