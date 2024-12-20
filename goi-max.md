@@ -1,10 +1,8 @@
 # 🤖 Gói MAX
 
-Với tình hình Facebook liên tục quét đăng bài spam thì các tính năng của gói MAX như một liều tiên dược.&#x20;
+Facebook liên tục quét đăng bài spam thì các tính năng của gói MAX như một liều tiên dược.&#x20;
 
-AI trong gói MAX có thể giúp bạn tìm kiếm khách hàng tiềm năng tự động ở 3 nơi:&#x20;
-
-&#x20;Tìm từ các bài Quảng cáo, các bài bạn Thích, các Hội nhóm công khai và riêng tư
+AI trong gói MAX có thể giúp bạn tìm kiếm khách hàng tiềm năng tự động ở 3 nơi:  Tìm từ các bài **Quảng cáo**, các bài bạn **Thích**, các **Hội nhóm công khai và riêng tư**
 
 ### 1. Tìm từ các bài <mark style="color:red;">Quảng cáo</mark>
 
