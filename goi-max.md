@@ -1,8 +1,42 @@
 # 🤖 Gói MAX
 
-Gói MAX tìm kiếm leads hiện tại gồm 3 chế độ: Tìm theo từ khoá & nhóm; Tìm theo các bài Quảng cáo; và Tìm theo các liên kết đã lưu
+Với tình hình Facebook liên tục quét đăng bài spam thì các tính năng của gói MAX như một liều tiên dược.&#x20;
 
-### Tìm theo từ khoá & nhóm
+AI trong gói MAX có thể giúp bạn tìm kiếm khách hàng tiềm năng tự động ở 3 nơi:&#x20;
+
+&#x20;Tìm từ các bài Quảng cáo, các bài bạn Thích, các Hội nhóm công khai và riêng tư
+
+### 1. Tìm từ các bài <mark style="color:red;">Quảng cáo</mark>
+
+1 - Bạn có thể tìm ra bài quảng cáo phù hợp qua 2 cách:
+
+* Từ khoá
+* Danh mục (Ví dụ: Bất động sản)
+* Thời gian
+
+Sau đó click chọn quảng cáo phù hợp (có thể chọn nhiều)
+
+2 - Chọn đối tượng và Hành động: Bạn chọn đối tượng nào thì AI sẽ dùng tài khoản Facebook của bạn để tương tác với hành động tương ứng
+
+3 -  Thông tin sản phẩm/dịch vụ của bạn (cần thiết để bình luận và gửi tin nhắn)
+
+4 - Danh sách quảng cáo
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+5 - AI cào thông tin các tương tác trong các quảng cáo (4) đã chọn
+
+6 - AI tự động dùng tài khoản của bạn để thực hiện các hành động (2) với đối tượng (2) bạn đã chọn
+
+7 - AI tự động tìm các thông tin khác của khách hàng tiềm năng
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+### 2. Tìm từ các bài bạn <mark style="color:red;">Thích</mark>
+
+
+
+### 3. Tìm từ các <mark style="color:red;">Hội nhóm công khai và riêng tư</mark>
 
 <figure><img src=".gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
@@ -12,8 +46,6 @@ Gói MAX tìm kiếm leads hiện tại gồm 3 chế độ: Tìm theo từ kho�
 4. Khi tìm ra thì làm gì? Bình luận, nhắn tin hoặc kết bạn? (có thể chọn nhiều hoặc không chọn)
 5. Kho sản phẩm của bạn, thông tin sản phẩm và hình ảnh
 6. Phễu báo cáo
-
-{% embed url="https://www.youtube.com/watch?v=BUVSF1ePRbE" %}
 
 #### Logic của AI
 
@@ -56,10 +88,6 @@ AI sẽ đọc toàn bộ 10 sản phẩm của bạn và nhu cầu của "Ngư�
 Giá -> Vị trí -> Loại sản phẩm
 
 Ví dụ: Bạn có phòng trọ 4tr và phòng trọ 10tr. Nhu cầu của "Người mua" là phòng 3tr. AI sẽ gửi phòng 4tr
-
-### Tìm theo bài Quảng cáo
-
-<figure><img src=".gitbook/assets/fbtool_max_ads.png" alt=""><figcaption></figcaption></figure>
 
 1. Từ khoá tìm kiếm nội dung quảng cáo
 2. Lọc tìm nội dung quảng cáo theo Danh mục, Thời gian. Chọn người bán, người mua hoặc không xác định (có thể chọn nhiều hoặc không chọn). Khi tìm ra thì làm gì? Bình luận, nhắn tin hoặc kết bạn? (có thể chọn nhiều hoặc không chọn).

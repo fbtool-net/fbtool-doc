@@ -55,11 +55,11 @@ Mã Giới Thiệu của bạn: Giảm Giá 10%
 
 1. Khách áp Mã Giới Thiệu của bạn, thanh toán cho gói Pro tháng 200k, khách được giảm 10% và chỉ thanh toán 180k.
 
-\-> Tháng đầu tiên bạn có 20k Phí Hoa Hồng, các tháng tiếp theo bạn sẽ có 40k Phí Hoa Hồng nếu người khách này vẫn tiếp tục sử dụng. (Các tháng sau khách thanh toán full 200k)
+-> Tháng đầu tiên bạn có 20k Phí Hoa Hồng, các tháng tiếp theo bạn sẽ có 40k Phí Hoa Hồng nếu người khách này vẫn tiếp tục sử dụng. (Các tháng sau khách thanh toán full 200k)
 
 2. Khách áp Mã Giới Thiệu của bạn, thanh toán cho gói Max năm 6000k, khách được giảm 10% và chỉ thanh toán 5400k.
 
-\-> Bạn sẽ có 50k Phí Hoa Hồng mỗi tháng x 12 tháng, tổng bạn sẽ nhận được là 600k.
+-> Bạn sẽ có 50k Phí Hoa Hồng mỗi tháng x 12 tháng, tổng bạn sẽ nhận được là 600k.
 
 
 
@@ -69,7 +69,7 @@ Mã Giới Thiệu của bạn: Giảm Giá 10%
 * _Sau khi khách áp mã giới thiệu của bạn và thanh toán thành công một gói bất kỳ, nếu họ có nâng cấp gói, gia hạn... bạn đều nhận được Phí Hoa Hồng tương ứng mà không cần phải nhập lại Mã Giới Thiệu._
 * _Người dùng chưa từng tạo tài khoản FBtool, người dùng đã tạo tài khoản nhưng chưa thanh toán thành công sẽ thấy ô điền Mã Giới Thiệu._
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 * _Thời gian cập nhật giới thiệu thành công lên app là từ 5 - 15 phút._
 * _Mã Giới Thiệu có thể tùy chỉnh từ 0% - 20% tối đa._

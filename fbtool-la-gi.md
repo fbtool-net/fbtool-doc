@@ -16,7 +16,7 @@ layout:
 
 FBtool là công cụ tự động hoá các hoạt động trên Facebook nhanh chóng, hiệu quả với sự hỗ trợ từ AI cho các tác vụ đăng bài, tìm kiếm khách hàng, tương tác với bạn bè hoặc người theo dõi Trang của bạn.&#x20;
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 
 

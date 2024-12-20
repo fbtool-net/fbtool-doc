@@ -73,7 +73,7 @@ Hoặc có thể trình duyệt Chrome cho "ngủ" thẻ Fbtool do treo quá lâ
 
 Chọn dấu 3 chấm góc trên bên phải của trình duyệt -> Cài đặt -> Hiệu suất -> thêm Fbtool.net
 
-<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -99,7 +99,7 @@ Trả lời: Khóa mõm là việc bạn bị Facebook hạn chế tính năng �
 
 Khóa mõm lần đầu có thể là vài tiếng, các lần sau tùy mức độ mà 1 ngày, 3 ngày, 7 ngày, 14 ngày, 1 tháng...&#x20;
 
-\-> Nếu bị khóa mõm, bạn nên để tài khoản đó nghỉ ngơi một thời gian và tương tác bằng tay tài khoản đó trên điện thoại, dùng lại khi đã được gỡ. Trong lúc đợi có thể đổi sang tài khoản khác dùng tiếp.
+-> Nếu bị khóa mõm, bạn nên để tài khoản đó nghỉ ngơi một thời gian và tương tác bằng tay tài khoản đó trên điện thoại, dùng lại khi đã được gỡ. Trong lúc đợi có thể đổi sang tài khoản khác dùng tiếp.
 
 Lưu ý: Nên tăng số lượng bài hoặc bình luận lên từ từ để kiểm tra và đảm bảo tài khoản luôn ở trong vùng an toàn.
 
@@ -127,9 +127,9 @@ Trả lời: Đây là tính năng tự động dừng khi phát hiện tài kho
 * Dính checkpoint -> Đây là cơ chế tự động của Facebook khi thấy tài khoản của bạn có một số hành vi không giống thường ngày. Ví dụ: Mới đăng nhập vào trình duyệt lạ, đăng quá nhiều bài so với mọi ngày, IP khác nhau, đăng nhập vào thiết bị mới, các tool khác có mã độc... -> Bạn hãy gỡ checkpoint, kiểm tra các thông báo đáng ngờ, đăng thử 1 bài bằng tay vào nhóm, nếu bình thường thì có thể dùng FBtool lại.
 *   Chưa được duyệt tham gia nhóm hoặc Đạt giới hạn bài chờ duyệt của nhóm -> Bạn phải đảm bảo rằng nick Trang Cá Nhân hoặc Trang của bạn đã tham gia nhóm và có khả năng đăng bài (có thể tự kiểm tra bằng cách đăng một bài lên nhóm đó)
 
-    <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
