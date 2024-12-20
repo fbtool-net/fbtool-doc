@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🤖 Gói MAX
 
 Facebook liên tục quét đăng bài spam thì các tính năng của gói MAX như một liều tiên dược.&#x20;

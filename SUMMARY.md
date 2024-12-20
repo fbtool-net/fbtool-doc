@@ -20,4 +20,4 @@
   * [Vận chuyển và giao nhận](ve-chung-toi/van-chuyen-va-giao-nhan.md)
   * [Chính sách bảo mật thông tin cá nhân](ve-chung-toi/chinh-sach-bao-mat-thong-tin-ca-nhan.md)
   * [Thông tin hàng hóa](ve-chung-toi/thong-tin-hang-hoa.md)
-* [Hướng dẫn kiếm 400 triệu/tháng](huong-dan-kiem-400-trieu-thang.md)
+* [Hướng dẫn kiếm 10 - 400 triệu/tháng](huong-dan-kiem-10-400-trieu-thang.md)

@@ -22,7 +22,7 @@ Sau khi đăng nhập, ở góc trên bên phải bạn click chọn "**Mua gói
 
 **Bước 2:** Chọn gói
 
-**Bước 3:** Thêm Mã Giới Thiệu giảm giá (nếu có)
+**Bước 3:** Thêm **Mã Giới Thiệu** giảm giá (bạn có thể tìm trên Youtube, Tiktok)
 
 **Bước 4:** Chọn hình thức thanh toán
 
