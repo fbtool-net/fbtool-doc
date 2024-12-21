@@ -20,10 +20,10 @@ AI trong gói MAX có thể giúp bạn tìm kiếm khách hàng tiềm năng t�
 
 ### 1. Tìm từ các bài <mark style="color:red;">Quảng cáo</mark>
 
-1 - Bạn có thể tìm ra bài quảng cáo phù hợp qua 2 cách:
+1 - Bạn có thể tìm ra bài quảng cáo phù hợp qua 3 cách:
 
 * Từ khoá
-* Danh mục (Ví dụ: Bất động sản)
+* Danh mục&#x20;
 * Thời gian
 
 Sau đó click chọn quảng cáo phù hợp (có thể chọn nhiều)
