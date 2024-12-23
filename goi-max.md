@@ -14,17 +14,15 @@ layout:
 
 # 🤖 Gói MAX
 
-Facebook liên tục quét đăng bài spam thì các tính năng của gói MAX như một liều tiên dược.&#x20;
+Với tình hình Facebook liên tục quét Spam thì các tính năng của gói MAX là một giải pháp hiệu quả nhất để giúp bạn có thể tăng doanh số.&#x20;
 
-AI trong gói MAX có thể giúp bạn tìm kiếm khách hàng tiềm năng tự động ở 3 nơi:  Tìm từ các bài **Quảng cáo**, các bài bạn **Thích**, các **Hội nhóm công khai và riêng tư**
+Khi bạn sử dụng gói MAX, bạn được dùng tất cả các tính năng của gói thấp hơn là BASIC, PLUS và PRO.
+
+AI trong gói MAX có thể giúp bạn tìm kiếm khách hàng tiềm năng tự động ở 3 nơi:  Tìm từ các bài **Quảng cáo**, các bài bạn **Yêu** **Thích**, các **Hội nhóm công khai và riêng tư**
 
 ### 1. Tìm từ các bài <mark style="color:red;">Quảng cáo</mark>
 
-1 - Bạn có thể tìm ra bài quảng cáo phù hợp qua 3 cách:
-
-* Từ khoá
-* Danh mục&#x20;
-* Thời gian
+1 - Bạn có thể tìm ra bài quảng cáo phù hợp qua 3 cách: Từ khoá, Danh mục quảng cáo, Thời gian của quảng cáo.
 
 Sau đó click chọn quảng cáo phù hợp (có thể chọn nhiều)
 
@@ -46,7 +44,7 @@ Sau đó click chọn quảng cáo phù hợp (có thể chọn nhiều)
 
 
 
-### 2. Tìm từ các bài bạn <mark style="color:red;">Thích</mark>
+### 2. Tìm từ các bài bạn <mark style="color:red;">Yêu</mark> <mark style="color:red;">Thích</mark>
 
 <figure><img src=".gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 
@@ -64,7 +62,7 @@ Nhấn Cho phép (chỉ cần làm 1 lần)
 
 <figure><img src=".gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
-Chuyển qua thẻ phần mềm bạn sẽ thấy bài viết
+Chuyển qua thẻ Fbtool bạn sẽ thấy bài viết vừa mới sao chép
 
 <figure><img src=".gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
@@ -132,21 +130,13 @@ Ví dụ: Bạn có phòng trọ 4tr và phòng trọ 10tr. Nhu cầu của "Ng�
 
 ### Lưu ý:
 
-#### 1. Mở thẻ Facebook.com
+1 - Luôn để ít nhất 1 thẻ Facebook trong khi chạy gói MAX (Phần mềm sẽ tự mở 1 thẻ Facebook khi thực hiện nhắn tin, nếu bạn tắt thẻ này thì sẽ không thể thực hiện)
 
-Nếu bạn chọn "Nhắn tin", bạn phải mở **1 thẻ facebook.com** và để yên cho tool chạy.&#x20;
+2 - Trong lúc tool chạy, bạn có thể dùng tài khoản này trên các thiết bị khác
 
-Lưu ý: **Không mở thêm thẻ facebook**
+3 - Theo quy định của Facebook, chỉ được gửi \~ 20 tin nhắn cho người lạ/ngày (Phần mềm sẽ tự dừng khi đạt giới hạn)
 
-Bạn có thể dùng trên điện thoại, hoặc dùng tài khoản Facebook này trên Chrome profile khác)
-
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
-
-Lưu ý: Theo quy định của Facebook, chỉ được gửi \~ 20 tin nhắn cho người lạ/ngày
-
-
-
-#### 2. Vì sao AI tìm ra những bài viết không liên quan đến từ khóa tôi đưa vào?
+4 -  Vì sao AI tìm ra những bài viết không liên quan đến từ khóa tôi đưa vào?
 
 Cùng 1 từ khóa, tất cả những kết quả bạn search trên Facebook đều giống với kết quả trong tool, bao gồm cả những kết quả không liên quan lắm như ví dụ dưới đây:
 
