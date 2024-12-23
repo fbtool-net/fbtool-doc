@@ -210,9 +210,9 @@ Tool sẽ tự động tag mọi người hoặc nêu bật mỗi lần đăng b
 
 
 
-### 13. Bỏ qua đăng bài dạng <mark style="color:red;">Marketplace /</mark> <mark style="color:green;">Niêm Yết</mark>
+### 13. **Tắt định dạng đăng bài lên** <mark style="color:red;">Marketplace /</mark> <mark style="color:green;">Niêm Yết</mark>
 
-<figure><img src=".gitbook/assets/Group 1000005098.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
 Nếu content bạn đăng có dạng mua/bán và đăng vào những nhóm có bật chế độ Mua/Bán, bài viết của bạn sẽ tự động được Facebook đẩy lên Marketplace. Để không muốn đẩy lên Marketplace và chỉ đăng ở phần Thảo Luận, hãy bật nút này lên.
 
@@ -222,16 +222,17 @@ Nếu content bạn đăng có dạng mua/bán và đăng vào những nhóm có
 
 <figure><img src=".gitbook/assets/Group 1000005098 (1).png" alt=""><figcaption></figcaption></figure>
 
-Nếu content có trên 2 hình ảnh thì nên dùng tính năng này để xáo trộn vị trí hình ảnh/video, tránh bị dính spam.
+Nếu bài viết của bạn có trên 2 hình ảnh thì nên dùng tính năng này để xáo trộn vị trí hình ảnh/video.
 
 ### 15. <mark style="color:red;">Tham gia</mark> nhóm
 
-<figure><img src=".gitbook/assets/fbtool_join_groups.png" alt=""><figcaption></figcaption></figure>
-
 Có 2 cách để tham gia nhóm:
 
-1. **Tham gia với danh sách UID các nhóm:** Bạn tự chuẩn bị danh sách UID nhóm, cách nhau mỗi dòng
-2. **Tham gia bằng cách chọn các nhóm trong danh sách có sẵn:** Tìm kiếm theo từ khoá và chọn các nhóm phù hợp với nhu cầu của bạn. Danh sách nhóm có sẵn của tool được cập nhật thường xuyên.
+**1 - Danh sách UID:** Bạn đưa vào danh sách các UID nhóm, ví dụ:
+
+<figure><img src=".gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+
+**2 - Danh sách có sẵn:** Chọn nhiều hoặc tìm kiếm nhóm theo từ khoá mong muốn (Có khoảng 400k + nhóm có sẵn và được update thường xuyên)
 
 
 
