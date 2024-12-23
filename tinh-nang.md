@@ -18,7 +18,7 @@ layout:
 
 ### <mark style="color:red;">1. Đăng bài</mark>
 
-#### Chế độ 1: Đăng bài
+#### Chế độ 1: Đăng bài bình thường
 
 Soạn nội dung, thêm hình ảnh/video tuỳ ý (1), chọn các nhóm muốn đăng bài vào (2), ấn bắt đầu (3).
 

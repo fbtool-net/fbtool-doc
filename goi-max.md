@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 🤖 Gói MAX
+# 4️⃣ Gói MAX
 
 Với tình hình Facebook liên tục quét Spam thì các tính năng của gói MAX là một giải pháp hiệu quả nhất để giúp bạn có thể tăng doanh số.&#x20;
 
