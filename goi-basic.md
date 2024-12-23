@@ -28,11 +28,17 @@ Tính năng đầu tiên của gói BASIC là đăng bài ở hai chế độ : 
 
 Ngoài ra còn có:
 
-[**Lưu lại nhóm theo bộ sưu tập**](tinh-nang.md#id-5.-tinh-nang-tim-kiem-va-bo-suu-tap) để thao tác nhanh hơn vào lần sau
+\+ [**Lưu lại nhóm theo bộ sưu tập**](tinh-nang.md#id-5.-tinh-nang-tim-kiem-va-bo-suu-tap) để thao tác nhanh hơn vào lần sau
 
-Sau khi đăng bài, phần mềm sẽ tự [**lưu lại bài đăng**](tinh-nang.md#id-6.-chon-nhanh-bai-da-dang) đó để chọn đăng lại nhanh hơn
+\+ Sau khi đăng bài, phần mềm sẽ tự [**lưu lại bài đăng**](tinh-nang.md#id-6.-chon-nhanh-bai-da-dang) đó để chọn đăng lại nhanh hơn
 
-[**Phát hiện spam** ](tinh-nang.md#id-11.-cac-tinh-nang-an)và [**tự động đăng chậm** ](tinh-nang.md#id-11.-cac-tinh-nang-an)
+\+ [**Phát hiện spam** ](tinh-nang.md#id-11.-cac-tinh-nang-an)và [**tự động đăng chậm**](tinh-nang.md#id-11.-cac-tinh-nang-an)**:** Tự động dừng khi phát hiện spam hoặc đăng chậm khi Facebook yêu cầu.
+
+\+ **Tắt định dạng đăng bài niêm yết lên Marketplace** (Rất cần thiết vì nếu spam quá nhiều lên Marketplace bạn sẽ bị khoá vĩnh viễn tính năng này)
 
 {% embed url="https://www.youtube.com/watch?v=uHLpJG-jPb4" %}
+
+Lưu ý: Hiện tại Facebook quét spam rất căng, khi phát hiện spam tài khoản của bạn sẽ bị Checkpoint. Xem thêm ở đây:&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=5V8o9MzWkZ0" %}
 
