@@ -34,7 +34,7 @@ Ngoài ra còn có:
 
 \+ [**Phát hiện spam** ](tinh-nang.md#id-11.-cac-tinh-nang-an)và [**tự động đăng chậm**](tinh-nang.md#id-11.-cac-tinh-nang-an)**:** Tự động dừng khi phát hiện spam hoặc đăng chậm khi Facebook yêu cầu.
 
-\+ **Tắt định dạng đăng bài niêm yết lên Marketplace** (Rất cần thiết vì nếu spam quá nhiều lên Marketplace bạn sẽ bị khoá vĩnh viễn tính năng này)
+\+ [**Tắt định dạng đăng bài niêm yết lên Marketplace**](tinh-nang.md#id-13.-tat-dinh-dang-dang-bai-len-marketplace-niem-yet) (Rất cần thiết vì nếu spam quá nhiều lên Marketplace bạn sẽ bị khoá vĩnh viễn tính năng này)
 
 {% embed url="https://www.youtube.com/watch?v=uHLpJG-jPb4" %}
 

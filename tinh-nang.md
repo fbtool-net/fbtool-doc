@@ -168,13 +168,13 @@ Bạn có thể đăng video có đuôi **MP4**.
 
 Có 3 cách dùng tính năng Xoá bài:&#x20;
 
-**Cách 1: Chỉ xoá bài chờ duyệt** tool sẽ vào từng nhóm đã chọn và xóa toàn bộ các bài đang chờ duyệt.
+**Cách 1: Chỉ xoá bài chờ duyệt** - phần mềm sẽ vào từng nhóm đã chọn và xóa toàn bộ các bài đang chờ duyệt.
 
-**Cách 2: Chỉ xoá bài đã đăng** tool sẽ xóa toàn bộ bài đã đăng của bạn trong các nhóm đã chọn.
+**Cách 2: Chỉ xoá bài đã đăng** - phần mềm sẽ xóa toàn bộ bài đã đăng của bạn trong các nhóm đã chọn.
 
-**Cách 3: Xoá tất cả** tool thực hiện cả 1 và 2.
+**Cách 3: Xoá tất cả** - phần mềm sẽ thực hiện cả 1 và 2.
 
-_Lưu ý: Khi chọn tính năng này, tool sẽ tự động mở thêm 1 thẻ facebook nữa, bạn để yên thẻ facebook đó không tắt đi để tool cập nhật trình trạng xoá bài (nếu tắt đi tool sẽ không thể chạy xoá bài chờ)_
+_Lưu ý: Khi chọn tính năng này,_ phần mềm _sẽ tự động mở thêm 1 thẻ facebook nữa, bạn để yên thẻ facebook đó không tắt đi để_ phần mềm _cập nhật trình trạng xoá bài (nếu tắt đi_ phần mềm _sẽ không thể chạy_
 
 
 
@@ -188,13 +188,13 @@ _Lưu ý: Khi chọn tính năng này, tool sẽ tự động mở thêm 1 thẻ
 
 2. Tự động dừng lại khi phát hiện dính Spam
 
-Khi tool không đăng được 5 bài hoặc 5 nhóm liên tục, đây là dấu hiệu của spam, tool sẽ tự động dừng để bảo vệ tài khoản của bạn tránh bị khoá mõm quá lâu.
+Khi phần mềm không đăng được 5 bài hoặc 5 nhóm liên tục, đây là dấu hiệu của spam, phần mềm sẽ tự động dừng để bảo vệ tài khoản của bạn tránh bị khoá mõm quá lâu.
 
 <figure><img src=".gitbook/assets/image (61).png" alt="" width="375"><figcaption></figcaption></figure>
 
 3. Tự động né Checkpoint
 
-Khi sử dụng tool bạn sẽ có thể bị Checkpoint lần đầu, gỡ ra và sử dụng bình thường, tool sẽ tự động né Checkpoint ở các lần sau.
+Khi sử dụng phần mềm bạn sẽ có thể bị Checkpoint lần đầu, gỡ ra và sử dụng bình thường, phần mềm sẽ tự động né Checkpoint ở các lần sau.
 
 <figure><img src=".gitbook/assets/image (62).png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -204,7 +204,7 @@ Khi sử dụng tool bạn sẽ có thể bị Checkpoint lần đầu, gỡ ra 
 
 <figure><img src=".gitbook/assets/Group 1000005097.png" alt=""><figcaption></figcaption></figure>
 
-Tool sẽ tự động tag mọi người hoặc nêu bật mỗi lần đăng bài vào nhóm. Ví dụ:
+Phần mềm sẽ tự động tag mọi người hoặc nêu bật mỗi lần đăng bài vào nhóm. Ví dụ:
 
 <figure><img src=".gitbook/assets/Group 1000005097 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -232,7 +232,7 @@ Có 2 cách để tham gia nhóm:
 
 <figure><img src=".gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
-**2 - Danh sách có sẵn:** Chọn nhiều hoặc tìm kiếm nhóm theo từ khoá mong muốn (Có khoảng 400k + nhóm có sẵn và được update thường xuyên)
+**2 - Danh sách có sẵn:** Chọn nhiều hoặc tìm kiếm nhóm theo từ khoá mong muốn (Có khoảng 400k + nhóm có sẵn đa ngành nghề và được cập nhật thường xuyên)
 
 
 
