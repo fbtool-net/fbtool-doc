@@ -28,9 +28,9 @@ Truy cập [**fbtool.net**](https://fbtool.net/) , ở góc trên bên phải nh
 
 A. Tải file ở đây, tuyệt đối **KHÔNG** tải ở những nơi khác. Lưu ý: Chỉ để **DUY NHẤT** 1 phiên bản Tiện ích mở rộng mới nhất, nếu bạn đang cập nhật phiên bản mới thì phải xoá bản cũ đi.
 
-### <mark style="color:red;">Phiên bản mới nhất v2.5.0</mark> 👇
+### <mark style="color:red;">Phiên bản mới nhất v3.0.1</mark> 👇
 
-{% file src=".gitbook/assets/1manbiz-v2.5.0.zip" %}
+{% file src=".gitbook/assets/1manbiz-v3.0.1.zip" %}
 
 B. Trên trình duyệt Chrome, ở góc trên bên phải chọn dấu 1. Dấu ba chấm -> 2. Tiện ích mở rộng -> **3. Quản lý các tiện ích**
 
