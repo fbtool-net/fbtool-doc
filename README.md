@@ -77,6 +77,7 @@ D. **Kéo và thả** file vừa tải vào giữa như ảnh phía dưới (Ho�
 
 #### Version log:
 
+* 25/12/2024: v3.0.1 fix E2EE messenger; ads spy
 * 28/10/2024: v2.5.0 new feature - ads spy MAX
 * 22/10/2024: v2.4.2 fix send image in messenger
 * 15/10/2024: v2.4.1 new feature limit 25 posts; get groups' stats
