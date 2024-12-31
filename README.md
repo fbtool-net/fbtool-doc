@@ -20,19 +20,15 @@ layout:
 
 Truy cập [**fbtool.net**](https://fbtool.net/) , ở góc trên bên phải nhấn chọn nút này và đăng ký/đăng nhập với tài khoản Google.
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Bước 2 - Tải và cài đặt Tiện ích mở rộng
 
-A. Tải file ở đây, tuyệt đối **KHÔNG** tải ở những nơi khác. Lưu ý: Chỉ để **DUY NHẤT** 1 phiên bản Tiện ích mở rộng mới nhất, nếu bạn đang cập nhật phiên bản mới thì phải xoá bản cũ đi.
+A. Nhấn để tải **Tiện ích mở rộng** ở nút này
 
-### <mark style="color:red;">Phiên bản mới nhất v3.0.1</mark> 👇
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-{% file src=".gitbook/assets/1manbiz-v3.0.1.zip" %}
-
-B. Trên trình duyệt Chrome, ở góc trên bên phải chọn dấu 1. Dấu ba chấm -> 2. Tiện ích mở rộng -> **3. Quản lý các tiện ích**
+B. Trên trình duyệt Chrome, ở góc trên bên phải chọn dấu 1. Dấu ba chấm -> 2. Tiện ích mở rộng -> **3.** Quản lý các tiện ích
 
 <figure><img src=".gitbook/assets/Screenshot_155.jpg" alt="" width="516"><figcaption></figcaption></figure>
 

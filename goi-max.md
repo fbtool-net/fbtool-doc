@@ -32,7 +32,7 @@ Sau đó click chọn quảng cáo phù hợp (có thể chọn nhiều)
 
 4 - Danh sách quảng cáo
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 5 - AI cào thông tin các tương tác trong các quảng cáo (4) đã chọn
 

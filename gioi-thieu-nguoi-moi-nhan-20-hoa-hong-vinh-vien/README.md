@@ -69,7 +69,7 @@ Mã Giới Thiệu của bạn: Giảm Giá 10%
 * _Sau khi khách áp mã giới thiệu của bạn và thanh toán thành công một gói bất kỳ, nếu họ có nâng cấp gói, gia hạn... bạn đều nhận được Phí Hoa Hồng tương ứng mà không cần phải nhập lại Mã Giới Thiệu._
 * _Người dùng chưa từng tạo tài khoản FBtool, người dùng đã tạo tài khoản nhưng chưa thanh toán thành công sẽ thấy ô điền Mã Giới Thiệu._
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 * _Thời gian cập nhật giới thiệu thành công lên app là từ 5 - 15 phút._
 * _Mã Giới Thiệu có thể tùy chỉnh từ 0% - 20% tối đa._
