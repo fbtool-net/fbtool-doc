@@ -19,9 +19,9 @@ layout:
 
 Trả lời: Có khả năng cao bạn đang cài quá nhiều **Tiện tích mở rộng** như hình dưới đây
 
-<figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Vào Quản lý tiện ích trong trình duyệt, xóa các tiện ích mở rộng phiên bản cũ, cài bản mới nhất [**tại đây**](./#buoc-2-tai-va-cai-dat-tien-ich-mo-rong) và chỉ để <mark style="color:red;">**DUY NHẤT 01**</mark> tiện ích mở rộng.
+Vào Quản lý tiện ích trong trình duyệt, xóa các tiện ích mở rộng phiên bản cũ, cài bản mới nhất [**tại đây**](./#buoc-2-tai-va-cai-dat-tien-ich-mo-rong) và chỉ để <mark style="color:red;">**DUY NHẤT 01**</mark> tiện ích mở rộng. Kể từ phiên bản v3.0.6, hệ thống sẽ <mark style="color:red;">**TỰ ĐỘNG**</mark> chỉ <mark style="color:green;">**BẬT**</mark> 1 tiện ích mở rộng phiên bản mới nhất, các phiên bản cũ hơn sẽ được <mark style="color:red;">**TẮT**</mark>.
 
 
 
@@ -33,11 +33,15 @@ Trả lời: Hãy kiểm tra thẻ Facebook của bạn, nếu thấy URL có d�
 
 Đối với điện thoại Android, hãy đảm bảo bạn đăng nhập vào Facebook ở chế độ PC trên trình duyệt web. (Hướng dẫn chi tiết: [https://www.youtube.com/watch?v=vBynqAfEHNs](https://www.youtube.com/watch?v=vBynqAfEHNs))
 
+
+
 ### **Hỏi: Tool báo đăng bài thành công nhưng khi nhấn vào link thì không thấy bài?**
 
 Trả lời: Nếu bạn gặp hình bên dưới đây, thì có khả năng bài viết đã đăng đang nằm trong phần "chờ duyệt", cần được admin nhóm phê duyệt thì mới hiện lên.
 
 <figure><img src=".gitbook/assets/Screenshot_131.jpg" alt="" width="467"><figcaption></figcaption></figure>
+
+
 
 ### **Hỏi: Tool quay tròn và đứng không chạy nữa?**
 
@@ -49,6 +53,8 @@ Trả lời: Nếu bạn gặp hình trên, thì đã có vấn đề xảy ra g
 * Đăng xuất rồi đăng nhập lại
 * Tắt VPN hoặc Proxy nếu đang sử dụng
 
+
+
 ### **Hỏi: Đăng nhập Google không thành công, trang không hiển thị giao diện tool?**
 
 <figure><img src=".gitbook/assets/login_error_redirect_url.jpg" alt=""><figcaption></figcaption></figure>
@@ -58,6 +64,8 @@ Trả lời: Nếu bạn gặp hình trên, thì có nghĩa trình duyệt của
 * Vào đường dẫn chính xác [https://fbtool.net/](https://fbtool.net/)
 * Bấm tổ hợp Ctrl/Cmd+Shift+R để tải lại trang tool
 * Tiến hành đăng nhập lại
+
+
 
 ### **Hỏi: Vì sao tool đăng nhưng bài không lên, tool hiện 0 0 0 0...**
 
