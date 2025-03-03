@@ -10,6 +10,8 @@
 * [🖱️ Hướng dẫn cài đặt Chrome Remote Desktop](huong-dan-cai-dat-chrome-remote-desktop.md)
 * [💳 Hướng Dẫn Thanh Toán](huong-dan-thanh-toan.md)
 * [1️⃣ Gói BASIC](goi-basic.md)
+* [2️⃣ Gói PLUS](goi-plus.md)
+* [3️⃣ Gói PRO](goi-pro.md)
 * [4️⃣ Gói MAX](goi-max.md)
 * [🔐 Privacy Policy](privacy-policy.md)
 * [📝 Terms of Service](terms-of-service.md)
