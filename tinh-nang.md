@@ -234,6 +234,12 @@ Có 2 cách để tham gia nhóm:
 
 **2 - Danh sách có sẵn:** Chọn nhiều hoặc tìm kiếm nhóm theo từ khoá mong muốn (Có khoảng 400k + nhóm có sẵn đa ngành nghề và được cập nhật thường xuyên)
 
+### 16. Lưu nội dung nháp
+
+Nội dung nháp sẽ được lưu giữ, kể cả khi bạn làm mới lại trang (F5) nếu bạn bật chế độ này. Lưu ý cẩn thận khi soạn nhiều nội dung bài viết và bình luận.
+
+<figure><img src=".gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+
 
 
 
