@@ -22,7 +22,9 @@ layout:
 
 2 - **Lọc tương tác**
 
-3 - **Tương tác từ Trang cá nhân**: nhắn tin, bình luận, like, lọc tương tác, chọc, huỷ kết bạn danh sách bạn bè
+3 - **Tương tác từ Trang cá nhân**: nhắn tin, bình luận, like, lọc tương tác, chọc, huỷ lời mời kết bạn. Ngoài ra, tính năng Kết bạn của gói PRO có 2 chế độ:
+
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Kết bạn theo danh sách UID người dùng</td><td><a href=".gitbook/assets/ fbtool_add_friend_uids.png"> fbtool_add_friend_uids.png</a></td></tr><tr><td>Kết bạn theo các thành viên mới tham gia nhóm (cần chọn Nhóm &#x26; điền Số lượng)</td><td><a href=".gitbook/assets/ fbtool_add_friend_group.png"> fbtool_add_friend_group.png</a></td></tr></tbody></table>
 
 4 - **Tương tác từ Trang**: nhắn tin cho khách đã từng inbox; like, bình luận, khách đã tương tác với Trang
 
