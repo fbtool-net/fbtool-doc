@@ -208,6 +208,10 @@ Phần mềm sẽ tự động tag mọi người hoặc nêu bật mỗi lần 
 
 <figure><img src=".gitbook/assets/Group 1000005097 (1).png" alt=""><figcaption></figcaption></figure>
 
+Hoặc bạn có thể tag các Trang, Nhóm, hoặc cá nhân tương tự như trên phiên bản web Facebook với cú pháp @<đối tượng>
+
+<figure><img src=".gitbook/assets/Screenshot from 2025-04-09 16-45-52.png" alt=""><figcaption></figcaption></figure>
+
 
 
 ### 13. **Tắt định dạng đăng bài lên** <mark style="color:red;">Marketplace /</mark> <mark style="color:green;">Niêm Yết</mark>
