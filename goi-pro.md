@@ -26,7 +26,11 @@ layout:
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Kết bạn theo danh sách UID người dùng</td><td><a href=".gitbook/assets/ fbtool_add_friend_uids.png"> fbtool_add_friend_uids.png</a></td></tr><tr><td>Kết bạn theo các thành viên mới tham gia nhóm (cần chọn Nhóm &#x26; điền Số lượng)</td><td><a href=".gitbook/assets/ fbtool_add_friend_group.png"> fbtool_add_friend_group.png</a></td></tr></tbody></table>
 
-4 - **Tương tác từ Trang**: nhắn tin cho khách đã từng inbox; like, bình luận, khách đã tương tác với Trang
+4 - **Tương tác từ Trang**: nhắn tin cho khách đã từng inbox; like, bình luận, khách đã tương tác với Trang. Tại đây bạn có thể lcọ và chọn những người dùng đã từng liên hệ Trang trong vòng 60 ngày để nhắn tin.
+
+<figure><img src=".gitbook/assets/fbtool-pro-sortable-recent-chats.png" alt=""><figcaption></figcaption></figure>
+
+
 
 5 - [**Đăng kèm tag @Nêu bật / @Mọi người**](tinh-nang.md#id-12.-dang-bai-kem-neu-bat-moi-nguoi)
 
