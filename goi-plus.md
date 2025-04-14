@@ -30,9 +30,9 @@ Ngoài các tính năng của BASIC, gói PLUS còn có thêm đăng bài ở ha
 
 4 - [**Đăng video**](tinh-nang.md#id-9.-dang-video)
 
-5 - [Xóa bài Đã Đăng / Chờ duyệt / Tất cả](tinh-nang.md#id-10.-xoa-bai-cho-duyet-da-dang-hoac-tat-ca)
+5 - [**Xóa bài Đã Đăng / Chờ duyệt / Tất cả**](tinh-nang.md#id-10.-xoa-bai-cho-duyet-da-dang-hoac-tat-ca)
 
-6 - [Xóa bài bán hàng trên Marketplace](tinh-nang.md#id-17.-xoa-bai-dang-ban-hang-marketplace)
+6 - [**Xóa bài bán hàng trên Marketplace**](tinh-nang.md#id-17.-xoa-bai-dang-ban-hang-marketplace)
 
 Ngoài ra còn có:
 
