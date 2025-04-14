@@ -244,6 +244,15 @@ Nội dung nháp sẽ được lưu giữ, kể cả khi bạn làm mới
 
 <figure><img src=".gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
+### 17. Xóa bài đăng bán hàng Marketplace
+
+Có 2 chế độ xóa bài đăng bán hàng trên Marketplace:
+
+1. Xóa tất cả bài đăng bán hàng Marketplace
+2. Xóa các bài đăng bánh àng CŨ trên Marketplace (> 7 ngày)
+
+<figure><img src=".gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+
 
 
 
