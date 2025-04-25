@@ -67,6 +67,11 @@ Soạn nội dung, thêm hình ảnh/video tuỳ ý (1), chọn các nhóm muố
 
 <figure><img src=".gitbook/assets/fbtool_crosspost_vi.png" alt=""><figcaption></figcaption></figure>
 
+Lưu ý:
+
+* Đăng chéo không thể vừa đăng vừa bình luận được
+* Các bài đăng chéo không ReUp/Úp bài được (có thể sẽ có update fix)
+
 ### 2. <mark style="color:red;">Úp</mark> bài
 
 Các bài đã đăng bằng Fbtool có thể được úp lên tóp bằng việc bình luận vào chính các bài viết đó, cụ thể:
