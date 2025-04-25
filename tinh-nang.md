@@ -28,7 +28,7 @@ Soạn nội dung, thêm hình ảnh/video tuỳ ý (1), chọn các nhóm muố
 
 #### Chế độ 2: Đăng lần lượt
 
-Để dùng tính năng này, soạn nội dung ở phần 1 2 3... (tối đa 10), chọn icon như hình dưới, chọn nhóm và đăng. Phần mềm sẽ hoạt động như sau:&#x20;
+Để dùng tính năng này, soạn nội dung ở phần 1 2 3... (tối đa 10), chọn icon **Lần lượt** như hình dưới, chọn nhóm và đăng. Phần mềm sẽ hoạt động như sau:&#x20;
 
 * Đăng lần lượt bài 1, bài 2 ... bài 10 vào nhóm 1.
 * Sau đó tiếp tục qua nhóm 2, đăng lần lượt bài 1, bài 2 ... bài 10.
@@ -51,14 +51,21 @@ Soạn nội dung, thêm hình ảnh/video tuỳ ý (1), chọn các nhóm muố
 
 #### Chế độ 4: Đăng song song
 
-Để dùng tính năng này, soạn nội dung ở phần 1 2 3... (tối đa 10), chọn icon như hình dưới, chọn nhóm và đăng. Phần mềm sẽ hoạt động như sau:&#x20;
+Để dùng tính năng này, soạn nội dung ở phần 1 2 3... (tối đa 10), chọn icon **Song song** như hình dưới, chọn nhóm và đăng. Phần mềm sẽ hoạt động như sau:&#x20;
 
 * Đăng song song bài 1 vào nhóm 1, bài 2 vào nhóm 2... bài 10 vào nhóm 10.
 * Sau đó tiếp tục bài 1 vào nhóm 11, bài 2 vào nhóm 12...
 
 <figure><img src=".gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
+#### Chế độ 5: Đăng chéo
 
+Để dùng tính năng này, soạn nội dung ở phần 1 2 3... (tối đa 10), chọn icon **Chéo** như hình dưới, chọn nhóm và đăng. Phần mềm sẽ hoạt động như sau:&#x20;
+
+* Đăng bài gốc 1 vào nhóm 1, Sau đó đăng chéo bài 1 vào nhóm 2 (1.1) đến nhóm 10 (1.10).
+* Sau đó tiếp tục đăng bài gốc 2 vào nhóm 11, Sau đó đăng chéo bài 2 vào nhóm 2 (2.11) đến nhóm 10 (2.20)...
+
+<figure><img src=".gitbook/assets/fbtool_crosspost_vi.png" alt=""><figcaption></figcaption></figure>
 
 ### 2. <mark style="color:red;">Úp</mark> bài
 
