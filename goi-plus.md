@@ -16,7 +16,7 @@ layout:
 
 Đây là gói thứ 2 mà Fbtool dành cho những ai có nhu cầu cao hơn về đăng tin và bình luận nhóm. Bạn có thể dùng phần mềm với Trang và Trang cá nhân.
 
-Ngoài các tính năng của BASIC, gói PLUS còn có thêm đăng bài ở hai chế độ : [**Đăng bài kèm bình luận**](tinh-nang.md#che-do-3-dang-bai-kem-binh-luan) và [**Đăng bài Song song**](tinh-nang.md#che-do-4-dang-song-song)**.**&#x20;
+Ngoài các tính năng của BASIC, gói PLUS còn có thêm đăng bài ở hai chế độ : [**Đăng bài kèm bình luận**](tinh-nang.md#che-do-3-dang-bai-kem-binh-luan)**,** [**Đăng bài Song song**](tinh-nang.md#che-do-4-dang-song-song)**,** và [**Đăng bài Chéo**](tinh-nang.md#che-do-5-dang-cheo).
 
 Ở gói PLUS này, phần mềm còn cung cấp thêm các tính năng về bình luận như:
 
