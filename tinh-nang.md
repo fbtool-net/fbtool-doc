@@ -60,17 +60,17 @@ Soạn nội dung, thêm hình ảnh/video tuỳ ý (1), chọn các nhóm muố
 
 #### Chế độ 5: Đăng chéo
 
-Để dùng tính năng này, soạn nội dung ở phần 1 2 3... (tối đa 10), chọn icon **Chéo** như hình dưới, chọn nhóm và đăng. Phần mềm sẽ hoạt động như sau:&#x20;
+Để dùng tính năng này, soạn nội dung ở phần 1 2 3... (tối đa 10), chọn icon **Đăng** **Chéo** như hình dưới, chọn nhóm và đăng. Phần mềm sẽ hoạt động như sau:&#x20;
 
-* Đăng bài gốc 1 vào nhóm 1, Sau đó đăng chéo bài 1 vào nhóm 2 (1.1) đến nhóm 10 (1.10).
-* Sau đó tiếp tục đăng bài gốc 2 vào nhóm 11, Sau đó đăng chéo bài 2 vào nhóm 2 (2.11) đến nhóm 10 (2.20)...
+* Đăng bài 1 vào nhóm 1, sau đó đăng chéo bài này vào nhóm 2 đến nhóm 10.
+* Nếu có nội dung ở phần 2 3 4..., phần mềm sẽ đăng bài 2 vào nhóm 1, sau đó đăng chéo bài này vào nhóm 2 đến nhóm 10. Đến khi xong hết các nội dung ở phần 2 3 4... sẽ tiếp tục đăng nội dung phần 1 vào nhóm 11, sau đó đăng chéo vào nhóm 12 đến 20.
 
 <figure><img src=".gitbook/assets/fbtool_crosspost_vi.png" alt=""><figcaption></figcaption></figure>
 
 Lưu ý:
 
-* Đăng chéo không thể vừa đăng vừa bình luận được
-* Các bài đăng chéo không ReUp/Úp bài được (có thể sẽ có update fix)
+* Ở chế độ Đăng Chéo, tính năng bình luận không hoạt động.
+* Các bài đăng chéo không dùng tính năng Úp Bài được (có thể sẽ có update fix).
 
 ### 2. <mark style="color:red;">Úp</mark> bài
 
