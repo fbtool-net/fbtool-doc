@@ -278,3 +278,9 @@ Trả lời: Bạn có thể dùng VIA nếu bạn muốn, tuy nhiên theo kinh 
 ### Hỏi: Có dùng được trên điện thoại iPhone hay iPad không?
 
 Trả lời: Không
+
+### Hỏi: Tại sao tôi không gửi tin nhắn cho khách hàng của Page được?
+
+<figure><img src=".gitbook/assets/fbtool_page_msg.png" alt=""><figcaption></figcaption></figure>
+
+Trả lời: Để nhắn tin trên FBTool từ Page, bạn cần những user đã từng nhắn tin với Page trước đó. Để lọc được những user này, bạn có thể chạy Lọc Tương tác, sau đó chọn những user có số lượng tin nhắn đã gửi lớn hơn 0 hoặc có dấu thời gian tin nhắn cuối cùng.
