@@ -36,5 +36,10 @@ layout:
 
 6 - **Phê duyệt bài viết của thành viên** (dành cho mod/admin nhóm)
 
+* Phê duyệt tất cả thành viên
+* Phê duyệt theo UID thành viên
+
+Cả hai chế độ đều có thể bật duyệt bằng AI, tool sẽ xem xét nội dung "**Chờ duyệt**" và "**Nghi ngờ Spam**" đăng có phù hợp với mô tả nhóm để cho duyệt đăng hay không.
+
 {% embed url="https://www.youtube.com/watch?v=LQl6_Gvz7Yw" %}
 
