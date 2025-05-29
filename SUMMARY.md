@@ -15,6 +15,7 @@
 * [4️⃣ Gói MAX](goi-max.md)
 * [🔐 Privacy Policy](privacy-policy.md)
 * [📝 Terms of Service](terms-of-service.md)
+* [Refund Policy](refund-policy.md)
 * [Hướng dẫn kiếm 10 - 400 triệu/tháng](huong-dan-kiem-10-400-trieu-thang.md)
 * [Về chúng tôi](ve-chung-toi/README.md)
   * [😀 Giới thiệu](ve-chung-toi/gioi-thieu.md)
