@@ -15,8 +15,8 @@ layout:
 
 # Về chúng tôi
 
-{% content-ref url="gioi-thieu.md" %}
-[gioi-thieu.md](gioi-thieu.md)
+{% content-ref url="../ve-chung-toi.md" %}
+[ve-chung-toi.md](../ve-chung-toi.md)
 {% endcontent-ref %}
 
 {% content-ref url="../terms-of-service.md" %}
