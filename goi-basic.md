@@ -16,6 +16,8 @@ layout:
 
 Đây là gói cơ bản nhất của Fbtool dành cho những ai có nhu cầu rất đơn giản. Bạn có thể dùng phần mềm với Trang và Trang cá nhân.
 
+Giá: **100.000** VND/tháng hoặc **600.000** VND/năm (Giảm giá 50% so với gói tháng)
+
 Tính năng đầu tiên của gói BASIC là đăng bài ở hai chế độ : [**Đăng bài bình thường**](tinh-nang.md#che-do-1-dang-bai) và [**Đăng bài lần lượt**](tinh-nang.md#che-do-2-dang-lan-luot)**.**&#x20;
 
 Ở gói BASIC, phần mềm đã được tích hợp các công nghệ AI để giúp né spam hiệu quả như:

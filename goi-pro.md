@@ -16,6 +16,8 @@ layout:
 
 Đây là gói Fbtool dành cho những ai có nhu cầu chuyên nghiệp hóa (sales/marketer) trang cá nhân hoặc Page của mình với khả năng lọc và tương tác với Bạn bè hoặc Người theo dõi Trang.
 
+Giá: **400.000** VND/tháng hoặc **2.400.000** VND/năm (Giảm giá 50% so với gói tháng)
+
 Ở gói PRO này, phần mềm còn cung cấp thêm các tính năng:
 
 1 - **Tham gia nhóm**

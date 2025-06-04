@@ -16,6 +16,8 @@ layout:
 
 Với tình hình Facebook liên tục quét Spam thì các tính năng của gói MAX là một giải pháp hiệu quả nhất để giúp bạn có thể tăng doanh số.&#x20;
 
+Giá: **1.000.000** VND/tháng hoặc **6.000.000** VND/năm (Giảm giá 50% so với gói tháng)
+
 Khi bạn sử dụng gói MAX, bạn được dùng tất cả các tính năng của gói thấp hơn là BASIC, PLUS và PRO.
 
 AI trong gói MAX có thể giúp bạn tìm kiếm khách hàng tiềm năng tự động ở 3 nơi:  Tìm từ các bài **Quảng cáo**, các bài bạn **Yêu** **Thích**, các **Hội nhóm công khai và riêng tư**
